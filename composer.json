@@ -1,0 +1,21 @@
+{
+	"name" : "nih-fo/plugin-maxmind",
+	"description" : "CakePHP Plugin: Maxmind Geoip2 plugin",
+	"type" : "cakephp-plugin",
+	"keywords" : ["geoip", "maxmind", "cakephp", "plugin"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*",
+		"geoip2/geoip2": "*"
+	}
+}
