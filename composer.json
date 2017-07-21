@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Maxmind Geoip2 plugin",
 	"type" : "cakephp-plugin",
 	"keywords" : ["geoip", "maxmind", "cakephp", "plugin"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
