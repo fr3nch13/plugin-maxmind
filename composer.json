@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-maxmind",
+	"name" : "fr3nch13/plugin-maxmind",
 	"description" : "CakePHP Plugin: Maxmind Geoip2 plugin",
 	"type" : "cakephp-plugin",
 	"keywords" : ["geoip", "maxmind", "cakephp", "plugin"],
@@ -15,7 +15,7 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*",
+		"fr3nch13/plugin-utilities": "1.*",
 		"geoip2/geoip2": "*"
 	}
 }
